@@ -1,6 +1,9 @@
 # Apple Files
 .DS_Store
 
+# My File
+build/*
+
 # Prerequisites
 *.d
 

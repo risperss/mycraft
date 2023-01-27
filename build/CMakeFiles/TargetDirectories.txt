@@ -1,3 +1,0 @@
-/Users/gaetanorispoli/Documents/dev/mycraft/build/CMakeFiles/mycraft.dir
-/Users/gaetanorispoli/Documents/dev/mycraft/build/CMakeFiles/edit_cache.dir
-/Users/gaetanorispoli/Documents/dev/mycraft/build/CMakeFiles/rebuild_cache.dir
